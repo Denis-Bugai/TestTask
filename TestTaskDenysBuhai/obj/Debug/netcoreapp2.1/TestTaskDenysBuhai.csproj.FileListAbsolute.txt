@@ -1,0 +1,14 @@
+C:\Users\Денис\source\repos\TestTaskDenysBuhai\TestTaskDenysBuhai\bin\Debug\netcoreapp2.1\TestTaskDenysBuhai.deps.json
+C:\Users\Денис\source\repos\TestTaskDenysBuhai\TestTaskDenysBuhai\bin\Debug\netcoreapp2.1\TestTaskDenysBuhai.runtimeconfig.json
+C:\Users\Денис\source\repos\TestTaskDenysBuhai\TestTaskDenysBuhai\bin\Debug\netcoreapp2.1\TestTaskDenysBuhai.runtimeconfig.dev.json
+C:\Users\Денис\source\repos\TestTaskDenysBuhai\TestTaskDenysBuhai\bin\Debug\netcoreapp2.1\TestTaskDenysBuhai.dll
+C:\Users\Денис\source\repos\TestTaskDenysBuhai\TestTaskDenysBuhai\bin\Debug\netcoreapp2.1\TestTaskDenysBuhai.pdb
+C:\Users\Денис\source\repos\TestTaskDenysBuhai\TestTaskDenysBuhai\obj\Debug\netcoreapp2.1\TestTaskDenysBuhai.csprojAssemblyReference.cache
+C:\Users\Денис\source\repos\TestTaskDenysBuhai\TestTaskDenysBuhai\obj\Debug\netcoreapp2.1\TestTaskDenysBuhai.csproj.CoreCompileInputs.cache
+C:\Users\Денис\source\repos\TestTaskDenysBuhai\TestTaskDenysBuhai\obj\Debug\netcoreapp2.1\TestTaskDenysBuhai.RazorAssemblyInfo.cache
+C:\Users\Денис\source\repos\TestTaskDenysBuhai\TestTaskDenysBuhai\obj\Debug\netcoreapp2.1\TestTaskDenysBuhai.RazorAssemblyInfo.cs
+C:\Users\Денис\source\repos\TestTaskDenysBuhai\TestTaskDenysBuhai\obj\Debug\netcoreapp2.1\TestTaskDenysBuhai.AssemblyInfoInputs.cache
+C:\Users\Денис\source\repos\TestTaskDenysBuhai\TestTaskDenysBuhai\obj\Debug\netcoreapp2.1\TestTaskDenysBuhai.AssemblyInfo.cs
+C:\Users\Денис\source\repos\TestTaskDenysBuhai\TestTaskDenysBuhai\obj\Debug\netcoreapp2.1\TestTaskDenysBuhai.RazorTargetAssemblyInfo.cache
+C:\Users\Денис\source\repos\TestTaskDenysBuhai\TestTaskDenysBuhai\obj\Debug\netcoreapp2.1\TestTaskDenysBuhai.dll
+C:\Users\Денис\source\repos\TestTaskDenysBuhai\TestTaskDenysBuhai\obj\Debug\netcoreapp2.1\TestTaskDenysBuhai.pdb
